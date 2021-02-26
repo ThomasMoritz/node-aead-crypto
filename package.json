@@ -40,7 +40,7 @@
     "prebuild-install": "^5.3.4"
   },
   "engines": {
-    "node": ">4 <5"
+    "node": ">4 <15"
   },
   "devDependencies": {
     "@types/node": "^14.0.6",
