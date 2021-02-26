@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlCalzone/node-aead-crypto.git"
+    "url": "git+https://github.com/ThomasMoritz/node-aead-crypto.git"
   },
   "keywords": [
     "openssl",
